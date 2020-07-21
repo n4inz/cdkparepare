@@ -1,0 +1,77 @@
+body{
+	margin: unset;
+}.menu_atas{
+	width: 100%;
+	height: 48px;
+	background: white;
+	position: fixed;
+	box-shadow: 1px 2px 4px 1px;
+}
+.atas{
+width: 100%;
+}h3{
+	font-size: 17px;
+	font-family: roboto;
+	text-align: center;
+}
+input{
+	width: 90%;
+	padding: 7px;
+	margin: 10px;
+	border-radius: 4px;
+	border :1px solid grey;
+}
+.logo{
+	width: 20%;
+	height: 100%;
+	float: left;
+}.search{
+	overflow: hidden;
+	text-align: center;
+	width: 60%;
+	float: left;
+	height: 100%;
+}.menu{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.tengah{
+padding-top: 100px;
+float: left;
+padding-left: 20%;
+}.bawah{
+width: 100%;
+float: left;
+text-align: center;
+}.card{
+	width: 200px;
+	height: 300px;
+	background: white;
+	overflow: hidden;
+	float: left;
+	margin-left: 20px;
+}.gambar{
+	width: 100%;
+	height: 150px;
+	overflow: hidden;
+	text-align: center;
+	
+}img{
+	height: 100%;
+}.atribut{
+	padding: 7px;
+	font-family: roboto;
+}h2{
+	color: red;
+	margin: unset;
+}.nama a{
+	font-weight: 300;	
+}.nama{
+	margin-bottom: 10px;
+}#loader{
+	text-align: center;
+}
+.load{
+	width: 200px;
+}
